@@ -91,7 +91,11 @@ This project is for educational/demo purposes.
 For custom licensing, please edit this section.
 
 ***
+## 📦 Download, APK \& Resume
 
-Feel free to further tailor this README with your name, screenshots, or repository URL before distribution!
-Let me know if you'd like any part expanded or additional guidance for final hand-in.
+- 👉 **[App APK, Source Code \& Resume Link](https://drive.google.com/drive/folders/1DY_HAXsIQtg4MmEQGLGLGib24cF2SxJ4?usp=drive_link)**
+    - Download the latest APK to try the app instantly.
+    - Browse the codebase and my resume for more details.
+
+***
 
