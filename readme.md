@@ -1,4 +1,3 @@
-
 ***
 
 # 📱 Smart Daily Expense Tracker
@@ -47,7 +46,6 @@ Smart Daily Expense Tracker is a modern Android app built with **Kotlin** and **
 └── README.md
 ```
 
-
 ***
 
 ## 🚀 Getting Started
@@ -91,11 +89,13 @@ This project is for educational/demo purposes.
 For custom licensing, please edit this section.
 
 ***
+
 ## 📦 Download, APK \& Resume
 
-- 👉 **[App APK, Source Code \& Resume Link](https://drive.google.com/drive/folders/1DY_HAXsIQtg4MmEQGLGLGib24cF2SxJ4?usp=drive_link)**
-    - Download the latest APK to try the app instantly.
-    - Browse the codebase and my resume for more details.
+  - 👉 **[App APK, Source Code \& Resume Link](https://drive.google.com/drive/folders/1DY_HAXsIQtg4MmEQGLGLGib24cF2SxJ4?usp=drive_link)**
+  - 👉 **[GitHubLink](https://github.com/pickapu/ExpenseTracker.git)**
+  - Download the latest APK to try the app instantly.
+  - Browse the codebase and my resume for more details.
 
 ***
 
